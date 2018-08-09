@@ -1,10 +1,10 @@
-<div class="cc-left">
+<div class="left">
   <h1>What Sets Granville Customer Care Apart?</h1>
   <p>Our Customer Care Team is known for going above and beyond the call of duty for every one of our homeowners. We offer <strong>24/7 emergency on-call service every day of the year</strong>, personalized frame tours of your new home, an extensive homeowner guide, how-to videos and much more. We are available by phone or live chat regardless of the age of your home.</p>
   <p>Our customers say it best themselves. Granville homeowner told us, <strong>"The main reason why I purchased a Granville Home was because of the customer service."</strong> And homeowner Paul said of recent maintenace performed on his home, <strong>"The job was done perfectly."</strong></p>
   <p>We are proud to offer service that is second to none in the industry. Give us a call or come by the office to get to know our friendly Customer Care team anytime.</p>
 </div>
-  <div class="cc-right">
+  <div class="right">
   <h1>Frequently Asked Questions</h1>
   <p>Our Customer Care Team is known for going above and beyond the call of duty for every one of our homeowners. We offer <strong>24/7 emergency on-call service every day of the year</strong>, personalized frame tours of your new home, an extensive homeowner guide, how-to videos and much more. We are available by phone or live chat regardless of the age of your home.</p>
 </div>
