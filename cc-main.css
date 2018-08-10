@@ -7,7 +7,6 @@ html, body {
 
 ul {
     padding: 0;
-    list-style: none;
 }
 
 #customer-care-container {
@@ -23,6 +22,7 @@ ul {
     color: rgba(117,117,117 ,1);
     background-color: #082139;
     font-weight: 600;
+    list-style: none;
 }
 
 .sub-nav li {
@@ -58,21 +58,79 @@ ul {
     color: #082139;
 }
 
+.left h1 {
+    font-size: 2.75em;
+}
+.left p {
+    font-size: 1.25em;
+    line-height: 2em;
+}
+
+.left img {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 50px auto 0px auto;
+    box-shadow: 3px 3px 8px rgba(8, 35, 28, .5);
+    border-radius: 10px;  
+}
+
 .right {
     line-height: 2em;
     color: #082139;
 }
 
-.right ul {
+.right .accordion {
+    background-color: #fff;
+    color: #082139;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    border: 1px solid #d7d7d7;
+    outline: none;
+    transition: 0.4s;
     text-transform: uppercase;
-    font-weight: 600;
-    font-size: .9em;
+    font-weight: 900;
 }
 
-.right li {
-    border: 1px solid #082139;
-    padding-left: 5px;
-    margin-bottom: 10px;
+.right .accordion:after {
+    content: '\02795';
+    font-size: 12px;
+    color: #082139;
+    float: right;
+    margin-left: 5px;
+}
+
+.right .active:after {
+    content: "\2796";
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+    color: #fff;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: #082139;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.panel p {
+    color: #fff;
+}
+
+.panel ul {
+    color: #fff;
+    padding-left: 25px;
+    line-height: 1.25em;
+}
+
+.panel li {
+    padding-bottom: 5px;
 }
 
 .customer-care-cta {
