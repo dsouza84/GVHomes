@@ -63,40 +63,60 @@ ul {
     color: #082139;
 }
 
+.right ul {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .9em;
+}
+
+.right li {
+    border: 1px solid #082139;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+
 .customer-care-cta {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: auto;
+    margin: 25px auto;
+    padding: 30px 0 30px 0;
+    width: 100%;
     background-color:#eef1f7;
     color: #082139;
 }
 
+.cta-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+    width: 50%;
+    margin: 0 auto;
+
+}
 .customer-care-cta h1, .customer-care-cta p {
     margin: 0;
 }
 
 .box1 {
     grid-column: 1 / 3;
-    background-color: red;
-    width: 50%;
+    text-align: center;
+    width: 70%;
     margin: 0 auto;
 }
 
 .box2 {
     grid-column: 1 / 3;
-    background-color: blue;
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
+    text-align: center;
+    line-height: 1.75em;
 }
 
 .box3 {
     grid-column: 1 / 2;
-    width: 50%;
-    margin: 0 auto;
+    text-align: right;
 }
 
 .box4 {
     grid-column: 2 / 3;
-    width: 50%;
-    margin: 0 auto;
+    text-align: left;
 }
