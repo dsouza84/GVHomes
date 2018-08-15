@@ -1,0 +1,9 @@
+<div class="left">
+  <h1>Helpful How-to Videos</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc augue felis, efficitur in pretium nec, convallis a libero. Curabitur nec augue at felis blandit lobortis. Nullam aliquam ligula justo, eget semper libero aliquam quis. Cras a mattis mi, a feugiat tortor. Nam rhoncus laoreet lectus vel rhoncus. Nam facilisis urna quis nisl pellentesque congue eget ac tortor. Phasellus et dignissim elit.</p>
+  <p>Quisque mollis orci non pharetra auctor. Aenean ac placerat metus. Suspendisse potenti. Morbi dapibus orci a convallis elementum. Cras non viverra quam. Aliquam nibh ipsum, sagittis sit amet dictum sit amet, pretium et eros. Sed blandit fringilla lorem, sit amet facilisis eros aliquam et. Aenean id orci cursus, finibus orci ac, elementum leo. Integer molestie tortor sed vehicula tincidunt. Nam porta elit magna, vel tincidunt neque imperdiet non. Nullam pulvinar enim ac mollis rhoncus. Duis nisl sapien, varius a pharetra quis, dictum non augue. Etiam in ex erat. Curabitur ac dolor fringilla, porta felis a, laoreet leo. Ut condimentum turpis non ante viverra, rhoncus imperdiet diam pharetra. Curabitur ex elit, placerat et tortor mattis, euismod consectetur elit.</p>
+  <p>Vivamus et leo sit amet ex viverra laoreet ut ornare felis. Integer aliquam sollicitudin justo vel viverra. Etiam auctor sit amet ipsum non vestibulum. Praesent congue augue sit amet interdum consequat. Donec diam ante, vehicula nec auctor ac, pharetra sed sem. Nullam elementum felis eget porttitor consequat. Maecenas a luctus velit, sit amet hendrerit urna. Aliquam sit amet efficitur sapien, nec suscipit lorem. Aliquam viverra eleifend cursus. Suspendisse aliquet tristique augue non commodo. Vivamus non accumsan urna.</p>
+</div>
+<div class="right">
+  <h1>Right Side</h1>
+</div>            

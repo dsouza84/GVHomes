@@ -1,0 +1,50 @@
+<div class="left">
+  <h1>Important Maintenance Procedures</h1>
+  <p>A Maintenance Timetable to Protect the Quality and Performance of your Granville Home.</p>
+  <p>Home maintenance is an important homeowner responsibillity. Please refer to your homeowner guide for specific questions and concerns, or contact the Granville Customer Care Department at <a href="mailto:customercare@gvhomes.com">customercare@gvhomes.com</a></p>
+  <h3>Weekly Maintenance (Repeat every week)</h3>
+  <ul>
+    <li>Inspect and maintain grass height to 1.5-2 inches</li>
+    <li>Inspect and clean kitchen hood vent grease trap</li>
+  <ul>
+  <h3>Monthly Maintenance (Repeat every month)</h3>
+  <ul>
+    <li>Inspect under sinks for minor leaks</li>
+    <li>Spray home for household pests</li>
+    <li>Inspect air conditioner upper condensate line - Leaking indicates a clog i nthe lower line</li>
+    <li>Maintain all in-ground landscape drains, keeping drains free from debris</li>
+    <li>Inspect and clean debris in lavatory faucet and shower head aerators</li>
+    <li>Change air conditioning/heating filters and clean all registers</li>
+    <li>Adjust sprinkler time as needed due to seasonal weather changes</li>
+    <li>Check sprinkler water coverage and adjust/clean sprinkler heads as needed</li>
+    <li>Test all smoke and carbon monoxide detectors</li>
+  </ul>
+  <h3>Quarterly Maintenance (Repeat every 3 months)</h3>
+  <ul>
+    <li>Inspect caulking around sinks, tubs, toilets, and shower enclosures - Maintain caulking when cracking or separation ocurs</li>
+    <li>Inspect silicone around shower doors and enclosures for proper seal - Repair as needed</li>
+    <li>inspect and clean bathroom exhaust fans</li>
+  </ul>
+  <h3>Semi-Annual Maintenance (Repeast every 6 months)</h3>
+  <ul>
+    <li>Have tankless water heater flushed by a certified technician</li>
+    <li>Have roof system serviced by a manufacturer authorized licensed contractor - Remove any debris and inspect/maintain all roof jacks, flashing and valleys</li>
+    <li>Replace batteries to HVAC thermostat</li>
+    <li>Replace batteries i all smoke and carbon monoxide detectors, test after replaced</li>
+    <li>Clean dryer vent</li>
+    <li>Inspect and replace shower door drip vinyl</li>
+  </ul>
+  <div class="caution">
+    <h2>caution</h2>
+    <p>Failure to use manufacturer authorized contractors may void warranties. See your Homeowner Guide or call Customer Care at (559) 268-2000 for authorized vendors.
+  </div>
+</div>
+<div class="right">
+  <h1>Granville Care Package</h1>
+  <h2>Let us take the hassle out of home maintenance</h2>
+  <p>When it comes to home maintenance, why not leave it to the experts? The Granville Care Package is a customizable menu of services that covers the key elements of your required home maintenance, including roof and rain gutter clean-up and inspection, plumbing inspection, inspection and replacement of your HVAC filters and your tankless water heater flush. Services are abailable individually or as a discounted package</p>
+  <p>For details and pricing, contact the Granville Customer Care Department at (559) 268-2000 or email <a href="mailto:customercare@gvhomes.com">customercare@gvhomes.com</a>.
+  <h1>Good Friends Make Great Neighbors!</h1>
+  <p>At Granville Homes, referrals are teh sincerest form of flattery. Your referrals are what helped us become the #1 bilder in the Central Valley. Just for sending your friends our way, we'll give you $500, and your friend buying a Granville home will receive $1,500 that they can use toward designer upgrades. There is no limit to the number of friends you can refer!</p>
+  <p>Some restrictions apply; for details, <a href="https://s3-us-west-1.amazonaws.com/gvhomes/files/Referral_Flyer_web.pdf">please view our printable referral form</a>.
+</div>            
