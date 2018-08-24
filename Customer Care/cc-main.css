@@ -2,7 +2,6 @@ html, body {
     padding: 0;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
 }
 
 button {
@@ -30,10 +29,10 @@ ul {
     padding-left: 1%;
     padding-right: 1%;
     text-decoration: none;
-    font-size: 1em;
+    font-size: .8rem;
     height: 50px;
     border-right: 1px solid #20476f;
-    line-height: 4rem;
+    line-height: 3rem;
     text-transform: uppercase;
 }
 
@@ -61,31 +60,31 @@ ul {
 
 .left {
     line-height:2em;
-    color: #082139;
+    color: #212529;
 }
 
 .left h1 {
-    font-size: 2.25em;
+    font-size: 2em;
     margin: 0;
 }
 
 .left h3 {
-    font-size: 1.5em;
-    background-color: #082139;
+    font-size: 1.15em;
+    background-color: #212529;
     color: #ccc;
-    padding: 10px 0 10px 15px;
+    padding: 7px 0 7px 15px;
 }
 
 .left ul {
     padding: 0 50px 0 50px;
-    font-size: 1.25em;
+    font-size: 1rem;
     line-height: 1.75em;
 }
 
 
 .left p {
-    padding-top:20px;
-    font-size: 1.25em;
+    padding-top:10px;
+    font-size: 1em;
     line-height: 2em;
 }
 
@@ -117,7 +116,7 @@ ul {
     margin: 0;
     padding: 10px;
     background-color: yellow;
-    font-size: 1.5em;
+    font-size: 1.1em;
     line-height: 1.7;
     text-align: center;
     font-weight: 900;
@@ -125,13 +124,12 @@ ul {
 
 .right {
     line-height: 2em;
-    color: #082139;
+    color: #212529;
 }
 
 .right h1 {
     margin: 0;
-    line-height: 1.5em;
-    font-size: 2.25em;
+    font-size: 2rem;
 }
 
 .right h2 {
@@ -140,8 +138,7 @@ ul {
 
 .right p {
     margin: 0;
-    padding-top:15px;
-    font-size: 1.25em;
+    font-size: 1rem;
 }
 
 .right img {
@@ -163,7 +160,7 @@ ul {
 
 .right .accordion {
     background-color: #fff;
-    color: #082139;
+    color: #212529;
     cursor: pointer;
     padding: 20px 0 20px 20px;
     width: 100%;
@@ -172,13 +169,13 @@ ul {
     outline: none;
     transition: 0.4s;
     text-transform: capitalize;
-    font-size: 1.25em;
+    font-size: 1em;
     font-weight: 600;
 }
 
 .right .cc-accordion p {
     padding: 10px;
-    font-size: 1.1em;
+    font-size: .8rem;
     color: #fff;
 }
 
@@ -200,6 +197,7 @@ ul {
     margin: 0;
     padding: 0 45px 15px 45px;
     line-height: 1.25em;
+    font-size:.8rem;
 }
 
 .panel li {
@@ -255,6 +253,12 @@ div.panel.show {
 .box4 {
     grid-column: 2 / 3;
     text-align: left;
+}
+
+.page-divider-narrow {
+    width: 100%;
+    border-bottom: 2px solid #e8bf53;
+    margin: 10px 0;
 }
 
 @media only screen and (max-width: 1024px) {
